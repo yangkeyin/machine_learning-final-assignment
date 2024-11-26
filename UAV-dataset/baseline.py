@@ -35,8 +35,6 @@ class ImageDataset(Dataset):
         return image, label, img_path  
 
 
-# ... 前面的代码保持不变 ...
-
 # 定义CNN模型
 class UAVDetectionModel(nn.Module):
     def __init__(self, num_classes=2):
