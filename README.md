@@ -119,6 +119,4 @@ python test.py
 4. 考虑使用不同的模型架构或优化策略
 
 
-## 作者
 
-yangkeyin
